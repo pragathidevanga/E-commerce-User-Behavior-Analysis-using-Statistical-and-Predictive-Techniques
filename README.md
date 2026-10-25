@@ -1,7 +1,7 @@
 # 🛒 E-commerce User Behavior Analysis
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:6B21A8&height=200&section=header&text=E-commerce%20Analytics&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Understanding%20User%20Behavior%20Through%20Data&descSize=15&descAlignY=65" width="100%" alt="Purple and blue E-commerce Analytics banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:10B981,100:064E3B&height=200&section=header&text=E-commerce%20Analytics&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Understanding%20User%20Behavior%20Through%20Data&descSize=15&descAlignY=65" width="100%" alt="Teal and emerald E-commerce Analytics banner"/>
 </p>
 
 <p align="center">
@@ -10,14 +10,14 @@
 
 <p align="center">
   <a href="https://github.com/pragathidevanga/E-commerce-User-Behavior-Analysis-using-Statistical-and-Predictive-Techniques">
-    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-242038?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-064E3B?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Domain-Data%20Analytics-667EEA?style=flat-square" alt="Data Analytics"/>
-  <img src="https://img.shields.io/badge/Focus-User%20Behavior-764BA2?style=flat-square" alt="User Behavior"/>
-  <img src="https://img.shields.io/badge/Approach-Statistical%20Analysis-6B21A8?style=flat-square" alt="Statistical Analysis"/>
+  <img src="https://img.shields.io/badge/Domain-Data%20Analytics-0F766E?style=flat-square" alt="Data Analytics"/>
+  <img src="https://img.shields.io/badge/Focus-User%20Behavior-059669?style=flat-square" alt="User Behavior"/>
+  <img src="https://img.shields.io/badge/Approach-Statistical%20Analysis-047857?style=flat-square" alt="Statistical Analysis"/>
 </p>
 
 ---
@@ -43,8 +43,6 @@
 
 The project explores how data analysis can help identify patterns in user activity and support data-driven decision-making.
 
-This repository serves as a practical demonstration of analytical problem-solving and the application of data techniques to an e-commerce use case.
-
 ## 🎯 Objectives
 
 - 📊 Explore e-commerce user behavior using available data.
@@ -52,18 +50,18 @@ This repository serves as a practical demonstration of analytical problem-solvin
 - 📈 Apply statistical techniques to analyze data.
 - 🤖 Explore predictive techniques where implemented.
 - 💡 Use analytical findings to support better decision-making.
-- 🧠 Strengthen practical skills in data analysis and interpretation.
+- 🧠 Develop practical skills in data analysis and interpretation.
 
 ## ✨ Project Highlights
 
-- **📊 Data Exploration:** Examine the available dataset and its characteristics.
-- **📐 Statistical Techniques:** Apply appropriate statistical methods to the data.
-- **🔎 Behavior Analysis:** Investigate user activity and patterns represented in the dataset.
-- **🤖 Predictive Techniques:** Explore prediction methods if included in the implementation.
-- **📉 Data Visualization:** Present findings through charts and visualizations where available.
-- **📝 Analytical Interpretation:** Interpret results based on the actual analysis.
+- 📊 **Data Exploration:** Examine the available dataset and its characteristics.
+- 📐 **Statistical Techniques:** Apply appropriate statistical methods.
+- 🔎 **Behavior Analysis:** Investigate user activity and patterns represented in the data.
+- 🤖 **Predictive Techniques:** Explore prediction methods if included in the implementation.
+- 📉 **Data Visualization:** Present findings through charts where available.
+- 📝 **Result Interpretation:** Interpret findings based on the actual analysis.
 
-*These highlights describe the project's scope. Retain only the techniques and outputs that are present in your repository.*
+*Keep only the features and techniques implemented in your project.*
 
 ## 🛠️ Technology Stack
 
@@ -76,33 +74,33 @@ This repository serves as a practical demonstration of analytical problem-solvin
 | Python | Data analysis and statistical computing, if used |
 | Jupyter Notebook | Interactive analysis, if used |
 | Git | Version control |
-| GitHub | Source-code hosting and project documentation |
+| GitHub | Source-code hosting and documentation |
 
-Additional libraries and tools should be listed here only after confirming that they are used in your project. For example, Pandas, NumPy, Matplotlib, Seaborn, or Scikit-learn can be added if they appear in your source code or dependency files.
+Add libraries such as Pandas, NumPy, Matplotlib, Seaborn, or Scikit-learn only if they are used in your actual source code.
 
 ## 🔄 Analysis Workflow
 
-The following is a general workflow for this type of project. Adapt it to the steps actually completed in your analysis.
+The following is a general workflow for this project type. Adapt it to your actual implementation.
 
-1. **📥 Data Collection** — Identify and load the available dataset.
-2. **🧹 Data Preparation** — Inspect data quality and prepare the data where necessary.
-3. **🔍 Exploratory Analysis** — Examine the dataset to understand its characteristics.
-4. **📐 Statistical Analysis** — Apply relevant statistical techniques.
-5. **🤖 Predictive Analysis** — Apply predictive methods if implemented.
-6. **📊 Visualization and Interpretation** — Present and interpret the results where available.
+1. 📥 **Data Collection:** Load the available dataset.
+2. 🧹 **Data Preparation:** Inspect and prepare the data where necessary.
+3. 🔍 **Exploratory Analysis:** Understand the dataset and its characteristics.
+4. 📐 **Statistical Analysis:** Apply relevant statistical techniques.
+5. 🤖 **Predictive Analysis:** Apply predictive methods if implemented.
+6. 📊 **Visualization and Interpretation:** Present and interpret results where available.
 
 ## 📸 Screenshots
 
-Add screenshots of your actual analysis outputs to make the repository easier to understand.
+Add screenshots of your actual project outputs to showcase your work.
 
 Suggested screenshots:
 
 - 📊 Exploratory data analysis
-- 📈 Statistical analysis results
+- 📈 Statistical analysis
 - 🔎 User behavior visualizations
 - 🤖 Predictive model results, if available
 
-After uploading your screenshots to a `screenshots` folder, you can display them using Markdown:
+After uploading your screenshots into a `screenshots` folder, use the following example Markdown:
 
 ```markdown
 ### 📊 Exploratory Data Analysis
@@ -115,15 +113,15 @@ After uploading your screenshots to a `screenshots` folder, you can display them
 ![Predictive Analysis](screenshots/predictions.png)
 ```
 
-*The image paths above are examples, not verified files. Replace them with the actual paths of images in your repository.*
+*These are example image paths. Replace them with actual files uploaded to your repository.*
 
 ## ⚙️ Installation and Setup
 
 ### Prerequisites
 
-- Python, if the project uses Python.
+- Python, if required by your project.
 - Git.
-- Jupyter Notebook or an appropriate Python development environment, if required.
+- Jupyter Notebook or another compatible development environment, if applicable.
 
 ### 1. Clone the repository
 
@@ -139,15 +137,13 @@ cd E-commerce-User-Behavior-Analysis-using-Statistical-and-Predictive-Techniques
 python -m venv venv
 ```
 
-Activate it:
-
-**Windows**
+Activate it on Windows:
 
 ```bash
 venv\Scripts\activate
 ```
 
-**macOS / Linux**
+On macOS or Linux:
 
 ```bash
 source venv/bin/activate
@@ -155,62 +151,60 @@ source venv/bin/activate
 
 ### 3. Install dependencies
 
-If the repository contains a `requirements.txt` file:
+If your repository contains a `requirements.txt` file:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-If no dependency file exists, install the packages required by the project according to its imports. Avoid installing unneeded libraries.
+Otherwise, install the packages required by the actual project.
 
-### 4. Open the project
+### 4. Run the analysis
 
-If your repository contains a Jupyter Notebook, launch Jupyter:
+If the repository contains Jupyter Notebook files, launch Jupyter:
 
 ```bash
 jupyter notebook
 ```
 
-Open the relevant notebook and run its cells in order.
+Open the relevant notebook and execute the cells in order.
 
-If your project uses a Python script or another tool, follow the execution instructions for the files actually included in the repository.
+If your project uses Python scripts or another environment, follow the instructions applicable to those files.
 
 ## 📁 Project Structure
 
-The following is an **illustrative structure**, not a verified listing of your repository.
+The structure below is illustrative. Replace it with the actual folders and files in your repository.
 
 ```text
 E-commerce-User-Behavior-Analysis-using-Statistical-and-Predictive-Techniques/
 │
 ├── data/                 # Dataset files, if included
 ├── notebooks/            # Analysis notebooks, if included
-├── src/                  # Python scripts, if included
-├── screenshots/          # Project screenshots, if added
-├── requirements.txt      # Python dependencies, if available
+├── src/                  # Source scripts, if included
+├── screenshots/          # Screenshots, if added
+├── requirements.txt      # Dependencies, if available
 └── README.md             # Project documentation
 ```
 
-Replace this example with the actual folder and file names from your GitHub repository.
-
 ## 🚀 How to Use
 
-1. Clone the repository to your local machine.
-2. Install the required dependencies, if applicable.
+1. Clone the repository.
+2. Install the required dependencies.
 3. Locate the main notebook or analysis script.
-4. Ensure any required dataset files are available in the expected location.
-5. Run the analysis using the instructions appropriate to your project.
-6. Review the generated outputs and interpret the findings.
+4. Ensure any required dataset is available.
+5. Run the analysis according to the project's structure.
+6. Review the outputs and interpret the results.
 
 ## 🔮 Future Improvements
 
-Potential enhancements, depending on the current project scope:
+Potential enhancements, depending on the current implementation:
 
-- 📊 Add an interactive analytics dashboard.
+- 📊 Develop an interactive analytics dashboard.
 - 📈 Expand the statistical analysis.
 - 🤖 Evaluate additional predictive techniques.
-- 🧪 Compare model performance using suitable evaluation metrics, if models are used.
+- 🧪 Compare model performance using suitable metrics, if applicable.
 - 📉 Improve visualizations and result interpretation.
-- 📝 Document findings and limitations more comprehensively.
+- 📝 Document findings and limitations.
 
 ## 🤝 Contributing
 
@@ -223,7 +217,7 @@ Suggestions and improvements are welcome.
    git checkout -b feature/your-feature-name
    ```
 
-3. Make your changes and test them.
+3. Make and test your changes.
 4. Commit your changes:
 
    ```bash
@@ -243,11 +237,11 @@ Suggestions and improvements are welcome.
 ---
 
 <p align="center">
-  <b>💜 Turning data into insights, one analysis at a time.</b>
+  <b>💚 Turning data into insights, one analysis at a time.</b>
   <br/>
   <i>Explore. Analyze. Learn. Improve.</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:6B21A8&height=100&section=footer" width="100%" alt="Purple and blue footer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:10B981,100:064E3B&height=100&section=footer" width="100%" alt="Teal and emerald footer banner"/>
 </p>
